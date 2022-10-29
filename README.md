@@ -1,11 +1,7 @@
 
-<h2> <a href="https://github.com/Devdeep-J-S" target="_blank"> <b>Devdeep Shetranjiwala</b></a> :man_technologist: </h2>
-
-
-# Hello World!
+<h2> Hello world, Devdeep Shetranjiwala here !</h2>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 ## About me:
 
@@ -60,6 +56,8 @@
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"></code>&nbsp;
+<code><img height="45" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/djangoproject.svg"></code>
+
 
 
 
@@ -68,7 +66,7 @@
 
 ### Connect with me on:<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' height="50px" width = "50px"> 
 
-<code><a href="https://www.linkedin.com/in/devdeep-shetranjiwala-4290b21ba/s"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>&nbsp;
+<code><a href="https://www.linkedin.com/in/devdeep-shetranjiwala-4290b21ba/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a></code>&nbsp;
 <a href="mailto:devdeep0702@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 
 Made with ❤ @GitHub
