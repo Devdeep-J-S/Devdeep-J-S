@@ -27,10 +27,6 @@
 
 
 
-## Metrics:
-
-![Metrics](https://metrics.lecoq.io/Devdeep-J-S)
-
 
 
  
