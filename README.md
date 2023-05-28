@@ -21,7 +21,7 @@
 ## GitHub Stats 📊: 
 
 
-![Devdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devdeep-J-S&show_icons=true&theme=tokyonight)
+<!-- ![Devdeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Devdeep-J-S&show_icons=true&theme=tokyonight) -->
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Devdeep-J-S&layout=compact&theme=tokyonight)
 
