@@ -2,8 +2,7 @@
 <h2>Hello There 👋</h2>
 
 
-<img align="right" src="https://github.com/Devdeep-J-S/Devdeep-J-S/assets/75716586/94658a87-2a72-4e29-82aa-e876f32d3363" width="400" height="400">
-
+<img align="right" src="https://github.com/Devdeep-J-S/Devdeep-J-S/assets/75716586/94658a87-2a72-4e29-82aa-e876f32d3363" width="400" height="400" alt="Image" >
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
